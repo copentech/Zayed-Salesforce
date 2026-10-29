@@ -1,0 +1,6 @@
+{
+  "summary":  "Supabase SQL schema to create the necessary tables for Zayed SalesForce synchronization, including profiles, customers, orders, commissions, staff activities, and supplier data. Includes RLS policies for public access.",
+  "updatedAt":  "2026-10-28T18:05:58.508782587Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

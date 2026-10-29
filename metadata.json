@@ -1,0 +1,6 @@
+{
+  "name": "Zayed SalesForce",
+  "description": "Zayed SalesForce: Offline-first order booking and regional delivery management system, owned by Al Yasir Bin Zayed",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
